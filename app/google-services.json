@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "341360651379",
+    "firebase_url": "https://digiroom-febd5.firebaseio.com",
+    "project_id": "digiroom-febd5",
+    "storage_bucket": "digiroom-febd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341360651379:android:62e7777a387dae93",
+        "android_client_info": {
+          "package_name": "com.audora.digiroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341360651379-10t7hv2jejl6iro84g5rts5bdjf2a4u4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.audora.digiroom",
+            "certificate_hash": "d8908aa5f2dab662e008beacf906a11171de941a"
+          }
+        },
+        {
+          "client_id": "341360651379-cqc5l3uekpkkp3pgdjajf1abn5m3ako2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnddzk9PPL39nWlsKZtbRKxdEUt8036RI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341360651379-cqc5l3uekpkkp3pgdjajf1abn5m3ako2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
